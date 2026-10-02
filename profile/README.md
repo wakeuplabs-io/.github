@@ -54,8 +54,6 @@ Operate the network after go-live, including the fallback when a sequencer stops
 
 ## Company
 
-WakeUp is a brand operated by TreeMansion LLC, a Delaware limited liability company.
-
 The public site is in English, Spanish, and Portuguese.
 
 - Site: [wakeuplabs.io](https://www.wakeuplabs.io)
